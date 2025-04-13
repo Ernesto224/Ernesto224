@@ -1,7 +1,7 @@
 <body>
 <header>
     <h1 align="center">Hola a todos soy Ernesto</h1>
-    <h2 align="center">Espero que encuentres algo interesante en mis proyectos</h2>
+    <p align="center">Espero que encuentres algo interesante en mis proyectos</p>
 </header>
 <main>
 
