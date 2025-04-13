@@ -1,10 +1,10 @@
-<header>
+<!--header>
    <p align="center">
    <img src="https://res.cloudinary.com/dks1ifnxa/image/upload/v1744527861/plaza-roja-moscu-despues-de-nevada_bla77b.jpg"
     alt="Imagen de la Plaza Roja de Moscú durante el invierno" width="100%" height="200px"
     style="object-fit: cover;">
    </p>
-</header>
+</header-->
 
 ```java
 public static void main(String[] args) {
