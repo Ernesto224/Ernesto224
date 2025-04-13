@@ -4,7 +4,7 @@
         <img 
         src="https://res.cloudinary.com/dks1ifnxa/image/upload/v1744527861/plaza-roja-moscu-despues-de-nevada_bla77b.jpg" 
         alt="Imagen de la Plaza Roja de Moscú durante el invierno"
-        width="80%" height="300px"
+        width="100%" height="300px"
         style="object-fit: cover; border-radius: 5px;">
     </p>
     <h1 align="center">Hola a todos soy Ernesto</h1>
