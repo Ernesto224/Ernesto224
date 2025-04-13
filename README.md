@@ -2,7 +2,6 @@
 <header>
     <h1 align="center">Hola a todos soy Ernesto</h1>
     <h2 align="center">Espero que encuentres algo interesante en mis proyectos</h2>
-    <hr border="1" width="100%" size="5" color="blue" align="center">
 </header>
 <main>
 
@@ -11,6 +10,7 @@
 
 </footer>
 </body>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
