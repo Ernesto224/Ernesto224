@@ -44,30 +44,6 @@ public static void main(String[] args) {
           <br>
       </p>
    </section>
-   <section>
-      <h2>
-         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>
-         Proyectos
-      </h2>
-      <div align="center" style="gap: 20px;">
-        <a href="https://github.com/Ernesto224/POO-Hilos-y-Sockets-ErnestoVega-2023">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ernesto224&repo=POO-Hilos-y-Sockets-ErnestoVega-2023&description&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,130F40" 
-             alt="POO-Hilos-y-Sockets" />
-        </a>
-         <a href="https://github.com/Ernesto224/ULinkUp-Final_Project_G2_IF4100.git">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ernesto224&repo=ULinkUp-Final_Project_G2_IF4100&description&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,130F40" 
-             alt="ULinkUp-Final_Project_G2_IF4100" />
-        </a>
-         <a href="https://github.com/Ernesto224/Ernesto224.github.io.git">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ernesto224&repo=Ernesto224.github.io&description&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,130F40" 
-             alt="Proyecto clinica" />
-        </a>
-         <a href="https://github.com/Ernesto224/portafolio-next.js.git">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ernesto224&repo=portafolio-next.js&description&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,130F40" 
-             alt="portafolio-next.js" />
-        </a>
-      </div>
-   </section>
 </main>
 
 <footer>
