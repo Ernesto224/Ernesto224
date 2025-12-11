@@ -1,4 +1,4 @@
-[![Banner con el texto God-Of-War-Weapon-API](https://res.cloudinary.com/dks1ifnxa/image/upload/v1760419462/god-of-war-weapon-api-cover_zobysv.jpg)](https://god-of-war-weapon-api.vercel.app/api/swagger/)
+[![Banner con el texto God-Of-War-Weapon-API](https://res.cloudinary.com/dks1ifnxa/image/upload/v1765434254/Banner-Personal_emfltg.jpg)]
 ### Hello there 👋
 
 #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
