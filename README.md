@@ -1,4 +1,4 @@
-[![Banner con el perfil](https://res.cloudinary.com/dks1ifnxa/image/upload/v1765439392/Banner-Personal_amjahc.png)](https://github.com/Ernesto224)
+[![Banner con el perfil](https://res.cloudinary.com/dks1ifnxa/image/upload/v1765469812/Banner-Personal-Sin-Avatar_ey3rf1.png)](https://github.com/Ernesto224)
 
 ### ¡Hola! soy Ernesto👋
 
