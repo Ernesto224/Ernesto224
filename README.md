@@ -1,10 +1,32 @@
-### ¡Hola! 👋
+### ¡Hola! soy Ernesto👋
 
-#### Desarrollador Full-Stack
+#### Desarrollador de Software Full-Stack
 
-Desarrollador Full-Stack en [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Anfitrión/Organizador de [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+Desarrollador de software con enfoque en la creación de **soluciones web eficientes y de alta calidad**.
 
-- ⚙️ Uso a diario: `.php`, `.js`, `.html`, `.css`, `.ts`, `.cs`, `.ai`, `.vscode`, `.vs`, `.react`, `.angular`
-- 💅 Diseñé: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc...
-- 💬 `hazme ping` sobre **diseño**, **branding** (marca), **laravel**, **desarrollo**, **design thinking** (pensamiento de diseño)
+- 🚀 Me destaco por mi actitud **proactiva**, mi disposición para el **trabajo en equipo** y mi **motivación constante por aprender** nuevas tecnologías.
+- 💡 Comprometido con aportar valor mediante la **investigación** y la **colaboración** con profesionales experimentados.
+- 🌍 Estoy más activo en el desarrollo de **proyectos de software**.
+
+#### ⚙️ Habilidades Técnicas
+
+A continuación, las tecnologías que utilizo y domino:
+
+| Categoría | Tecnologías (con iconos) |
+| :--- | :--- |
+| **Backend / Frameworks** | <code><img src="https://skillicons.dev/icons?i=java,cs,dotnet,php,nodejs,express,prisma" /></code> |
+| **Frontend / UI / Móvil** | <code><img src="https://skillicons.dev/icons?i=angular,react,flutter,astro,js,html,css,tailwind,ionic" /></code> |
+| **Bases de Datos** | <code><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /></code> |
+| **Diseño / Herramientas** | <code><img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma" /></code> |
+
+#### 🌟 Habilidades Blandas
+
+- Liderazgo
+- Pensamiento Crítico
+- Proactividad
+- Escucha Activa
+- Ética Profesional
+
+#### 💬 Contáctame sobre
+
+**Desarrollo de Software**, **Aplicaciones Web (Full-Stack)**, **Flutter**, **Angular**, **.NET**, **Node.js**, **Bases de Datos (SQL)**, **Gestión de Proyectos (Scrum/RUP)** o **colaboraciones en la Universidad de Costa Rica**.
