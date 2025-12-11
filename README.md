@@ -31,7 +31,7 @@ A continuación, las tecnologías que utilizo y domino:
 
 #### 💬 Contáctame sobre
 
-**Desarrollo de Software**, **Aplicaciones Web (Full-Stack)**, **Flutter**, **Angular**, **.NET**, **Node.js**, **Bases de Datos (SQL)**, **Gestión de Proyectos (Scrum/RUP)** o **colaboraciones en la Universidad de Costa Rica**.
+**Desarrollo de Software**, **Aplicaciones Web (Full-Stack)**, **Flutter**, **Angular**, **.NET**, **Node.js**, **Bases de Datos (SQL)**, **Gestión de Proyectos (Scrum/RUP)**.
 
 <p align="center">
   <img 
