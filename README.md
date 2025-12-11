@@ -30,3 +30,10 @@ A continuación, las tecnologías que utilizo y domino:
 #### 💬 Contáctame sobre
 
 **Desarrollo de Software**, **Aplicaciones Web (Full-Stack)**, **Flutter**, **Angular**, **.NET**, **Node.js**, **Bases de Datos (SQL)**, **Gestión de Proyectos (Scrum/RUP)** o **colaboraciones en la Universidad de Costa Rica**.
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=White&height=100&section=footer"
+    width="100%" 
+  />
+</p>
