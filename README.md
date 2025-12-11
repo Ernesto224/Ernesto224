@@ -1,7 +1,6 @@
-[![Banner con el texto God-Of-War-Weapon-API](https://res.cloudinary.com/dks1ifnxa/image/upload/v1765434254/Banner-Personal_emfltg.jpg)()]
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Developer
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
